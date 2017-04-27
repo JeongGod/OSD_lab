@@ -13,3 +13,5 @@
 3. Set the alarm
 
 # ScreenShot
+![](https://github.com/JeongGod/OSD_lab/blob/master/Pictures/Calendar.png)
+![](https://github.com/JeongGod/OSD_lab/blob/master/Pictures/Schedule.png)
