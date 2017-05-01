@@ -1,0 +1,30 @@
+{
+  "name": "OSD_lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "electron": "^1.6.6",
+    "express": "^4.15.2",
+    "mongodb": "^2.2.26",
+    "mongoskin": "^2.1.0",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeongGod/OSD_lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeongGod/OSD_lab/issues"
+  },
+  "homepage": "https://github.com/JeongGod/OSD_lab#readme"
+}
